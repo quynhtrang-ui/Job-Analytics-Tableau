@@ -17,6 +17,8 @@ The dataset contains 3,755 job records from the global Data Science job market, 
 - Which company size (Small, Medium, Large) is providing the highest number of jobs?
 - Do large companies pay higher salaries for top roles compared to medium and small companies?
 - What are the various employment types (Full-time, Part-time, Contract, Freelance) and their distributions across the market?
+
+## DASHBOARDS 
   
 <img width="1890" height="968" alt="Screenshot 2026-03-05 232901" src="https://github.com/user-attachments/assets/240cc7a0-56be-47d4-bc7b-ea0c82b2ade8" />
 
