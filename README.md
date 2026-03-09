@@ -1,29 +1,109 @@
-# Job-Analytics-Tableau
+# 📊 Data Science Job Analysis (Tableau)
 
-## About the Project: 
-This project, a comprehensive dataset is analyzed to draw actionable insights regarding salary distributions, work models, and experience requirements. These insights can be highly useful for HR professionals to benchmark salaries and for data professionals to navigate the competitive recruitment process in the tech market.
+## 📌 Project Overview
 
-## ABOUT THE DATASET:
-The dataset contains 3,755 job records from the global Data Science job market, spanning the years 2020 to 2023. It includes detailed information on salaries, job titles, experience levels, company sizes, and work environments (Remote, Office, Hybrid) across various countries.
+This project analyzes global Data Science job market trends using interactive Tableau dashboards.  
+The goal is to explore salary distributions, job demand, work models, and experience requirements across the industry.
 
-## INSIGHTS TO BE FOUND?
-- What is the overall average, highest, and lowest salary in the Data Science field?
-- What are the TOP 10 job titles with the highest average salaries?
-- What is the distribution of jobs across various Data Science roles (e.g., Data Engineer, Data Scientist, Data Analyst)?
-- Which countries or regions have the highest number of employees?
-- What are the various career levels (Entry, Intermediate, Senior, Expert) and their distribution trends from 2020 to 2023?
-- What is the distribution of work models (Remote, Office, Hybrid) in the industry?
-- How does the work model impact the overall salary distribution?
-- Which company size (Small, Medium, Large) is providing the highest number of jobs?
-- Do large companies pay higher salaries for top roles compared to medium and small companies?
-- What are the various employment types (Full-time, Part-time, Contract, Freelance) and their distributions across the market?
+The analysis provides valuable insights for:
 
-## DASHBOARDS 
-  
-<img width="1890" height="968" alt="Screenshot 2026-03-05 232901" src="https://github.com/user-attachments/assets/240cc7a0-56be-47d4-bc7b-ea0c82b2ade8" />
+- **HR professionals** to benchmark salaries and hiring trends
+- **Job seekers** to understand career opportunities and salary expectations
+- **Organizations** to evaluate workforce demand in the data industry
 
-<img width="1894" height="953" alt="Screenshot 2026-03-05 232917" src="https://github.com/user-attachments/assets/cf70884e-a758-4fa7-8730-8fb46ebf0198" />
+---
+
+# 📊 Dataset
+
+The dataset contains **3,755 job records** from the global Data Science job market between **2020 and 2023**.
+
+### Key Variables
+
+- Job Title
+- Salary (USD)
+- Experience Level
+- Company Size
+- Employment Type
+- Work Model (Remote / Hybrid / Office)
+- Company Location
+- Employee Residence
+- Year
+
+The dataset provides a comprehensive overview of **global hiring trends in the Data Science industry**.
+
+---
+
+# 🛠 Tools Used
+
+- **Tableau** – Data visualization and dashboard creation
+- **Data Cleaning** – Dataset preprocessing before visualization
+
+---
+
+# 📈 Dashboard Overview
+
+The Tableau dashboard provides a complete view of the Data Science job market, including:
+
+### Salary Analysis
+- Average salary in the Data Science field
+- Highest and lowest salaries
+- Top-paying job roles
+
+### Job Demand Analysis
+- Distribution of job roles (Data Scientist, Data Engineer, Data Analyst, etc.)
+- Countries with the highest number of data jobs
+
+### Experience Level Trends
+- Entry-level
+- Mid-level
+- Senior-level
+- Expert-level
+
+The dashboard also shows how these levels evolved between **2020 and 2023**.
+
+### Work Model Distribution
+- Remote jobs
+- Hybrid jobs
+- On-site jobs
+
+This helps visualize how the industry shifted toward **remote work after 2020**.
+
+### Company Size Analysis
+- Small companies
+- Medium companies
+- Large companies
+
+The analysis evaluates which company sizes hire the most data professionals and offer the highest salaries.
+
+---
+
+# 🔍 Key Insights
+
+Some important findings from the analysis include:
+
+• **Senior and Expert-level roles command significantly higher salaries** than entry-level positions.
+
+• **Data Engineer and Machine Learning Engineer roles are among the highest-paying positions** in the Data Science field.
+
+• **Large companies offer the majority of job opportunities**, particularly for senior roles.
+
+• The industry shows a strong shift toward **remote and hybrid work models**, especially after 2020.
+
+• **North America and Europe dominate the global data job market** in terms of both salary and job availability.
+
+---
+
+# 📊 Dashboard Preview
 
 <img width="1905" height="961" alt="Screenshot 2026-03-05 232932" src="https://github.com/user-attachments/assets/2b757745-c6ad-4d2e-ac6d-bc7283ac94dd" />
 
-<img width="1907" height="940" alt="Screenshot 2026-03-05 233010" src="https://github.com/user-attachments/assets/2f70f640-c0c4-4a82-9434-2e7a99e0d514" />
+---
+
+# 💼 Business Value
+
+This analysis helps:
+
+- HR teams benchmark salaries and hiring strategies
+- Data professionals understand job market trends
+- Companies evaluate the competitiveness of their compensation packages
+
